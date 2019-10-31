@@ -26,7 +26,7 @@
   
 <a name="项目介绍"></a>  
 ## 项目介绍  
-使用了Spring boot+Mybatis的框架，DAL层使用一套Object+interface，两套XML完成，并通过配置完成响应XML的映射  
+使用了Spring boot+Mybatis的框架，DAL层使用一套Object+interface，两套XML完成，并通过配置完成相应XML的映射  
   
 <a name="使用说明"></a>  
 ## 使用说明    
