@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: multipledatabasestest-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Yanfa-0509
+Implementation-Vendor-Id: cms.pdstars.microserver
+Build-Jdk: 1.8.0_92
+Implementation-URL: http://projects.spring.io/spring-boot/multipledata
+ basestest-server/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

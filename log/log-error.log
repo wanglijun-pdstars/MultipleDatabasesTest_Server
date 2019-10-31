@@ -1,0 +1,15 @@
+2019-10-25 11:20:50.240 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter Line:42  - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field typeMapper in com.pdstars.manager.test.TestServiceImpl required a bean of type 'com.pdstars.dal.daointerface.TypeMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.pdstars.dal.daointerface.TypeMapper' in your configuration.
+
